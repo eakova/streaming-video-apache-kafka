@@ -21,3 +21,5 @@ So originaly we call : http://127.0.0.1:5000/produce
     http://127.0.0.1:5000/
 
     We should see our video playing.
+
+<img src="screenshot.png">
