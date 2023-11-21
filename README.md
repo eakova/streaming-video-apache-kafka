@@ -1,3 +1,5 @@
+
+Source: https://gitlab.com/dimimpov/streaming-video-apache-kafka
 ## Streaming a video through Apache Kafka.
 
 If you dont have apache kafka installed you can follow this guide https://kafka.apache.org/quickstart .
